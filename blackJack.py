@@ -1,4 +1,7 @@
 import random
+
+#ORGANIZE IT BETTER BY SEPARATING ACTIONS WITH FUNCTIONS?
+
 #Rules of game:
  #Player hand
 player_hand = []
@@ -7,7 +10,6 @@ dealer_hand = []
 #"Hit" function
 # def p_options(o):
 #     if o == "hit"
-
 
 
 
